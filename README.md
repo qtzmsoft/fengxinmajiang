@@ -8,5 +8,18 @@
 > 1. 使用COCOS CREATOR1.4.2创建空工程。
 > 2. 把代码覆盖assets目录。
 > 3. 使用模拟器运行。
+### 应用截图
+![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/1.png)  
+
+![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/2.png)  
+
+![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/3.png)  
+
+![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/4.png)  
+
+![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/5.png)  
+
+### APK(Download)：
+[![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/image/canvas.png)](https://github.com/qtzmsoft/fengxinmajiang/raw/master/release/majiang-release-signed_legu_signed_zipalign.apk)
 ### 其他
 后续还有部分功能会不定期完善。
