@@ -8,6 +8,10 @@
 > 1. 使用COCOS CREATOR1.4.2创建空工程。
 > 2. 把client目录下代码覆盖COCOS CREATOR创建新工程的assets目录。
 > 3. 使用模拟器运行。
+### 服务端使用说明
+> 1. 安装redis。
+> 2. 安装mysql。
+> 3. 运行server目录下程序。
 ### 应用截图
 ![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/1.png)  
 
