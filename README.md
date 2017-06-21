@@ -4,9 +4,9 @@
 ### 开发环境
 > * macOS Sierra10.12.4
 > * COCOS CREATOR1.4.2（下载地址：http://cocos2d-x.org/filedown/CocosCreator_v1.4.2_win）
-### 使用说明
+### 客户端使用说明
 > 1. 使用COCOS CREATOR1.4.2创建空工程。
-> 2. 把代码覆盖assets目录。
+> 2. 把client目录下代码覆盖COCOS CREATOR创建新工程的assets目录。
 > 3. 使用模拟器运行。
 ### 应用截图
 ![image](https://github.com/qtzmsoft/fengxinmajiang/raw/master/screenshot/1.png)  
